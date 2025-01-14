@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "fs-extra": "^11.2.0"
+  }
+}
