@@ -1,6 +1,7 @@
 {
   "interval": 20000,
   "local": "./files",
+  "db": "./db.json",
   "servers": [
     { "address": "10.0.0.16:5000", "folder": "/JKSV" },
     { "address": "10.0.0.21:5000", "folder": "/JKSV" }
